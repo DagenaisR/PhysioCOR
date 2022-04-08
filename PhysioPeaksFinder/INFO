@@ -1,5 +1,5 @@
 App name:     PhysioPeaksFinder
-Version:      1.1
+Version:      1.2
 Author:       Rémi Dagenais
 Contact info: remi.dagenais@mail.mcgill.ca
 Date:         29/12/2021
@@ -12,5 +12,4 @@ Description:  Semi-automatic local maxima GUI finder. Finds automatically the lo
                 threshold     -> Linear thresholding above statistics
               The peaks that were not identified or wrongly identified can then be added/removed manually by cliking on them.
 Bugs:         Some screen display will interfere with the actual click input position, making the manual selection impossible.
-              The time vector input should be optional but is presently required.
               The automatic finder is essentially insensitive to the threshold input.
